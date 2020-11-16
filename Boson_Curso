@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T17:03:19.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.9.9" etag="NPbmxfLwUhSIxSSKF_QX" type="github"><diagram id="my70gow2JXrTswzlM-2k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T17:27:48.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="RgFYq2Bvvyvu583us4Js" version="13.9.9" type="github">
+  <diagram id="my70gow2JXrTswzlM-2k" name="Page-1">
+    <mxGraphModel dx="844" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mpPesaU1RTHJoH_eQU32-11" value="Sistema Bancario" style="rounded=0;whiteSpace=wrap;html=1;align=center;container=0;imageVerticalAlign=top;verticalAlign=top;labelBackgroundColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="390" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-18" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-20" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-21" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="310" />
+              <mxPoint x="310" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-27" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-29" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.084;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="400" />
+              <mxPoint x="380" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-38" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-1" target="mpPesaU1RTHJoH_eQU32-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-1" value="Cliente&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-2" value="Pesoa fisica" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-3" value="Pessoa Juridica" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-19" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-6" target="mpPesaU1RTHJoH_eQU32-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-6" value="Funcionario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mpPesaU1RTHJoH_eQU32-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-8" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="mpPesaU1RTHJoH_eQU32-10" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-10" value="Caixa&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-36" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-15" target="mpPesaU1RTHJoH_eQU32-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpPesaU1RTHJoH_eQU32-36">
+          <mxGeometry x="0.3183" relative="1" as="geometry">
+            <mxPoint y="3.7900000000000063" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-15" value="Abrir Conta" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-16" value="Tirar Extrato" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-17" value="Consultar Saldo" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="364" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-24" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;entryX=0.213;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-22" target="mpPesaU1RTHJoH_eQU32-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-22" value="Abrir Conta corrente" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-25" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-23" target="mpPesaU1RTHJoH_eQU32-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-23" value="Abrir Conta Poupança" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="375" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-34" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;strokeColor=#000000;dashed=1;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-26" target="mpPesaU1RTHJoH_eQU32-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-40" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpPesaU1RTHJoH_eQU32-34">
+          <mxGeometry x="-0.4126" y="-2" relative="1" as="geometry">
+            <mxPoint x="32.78" y="4.76" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-41" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-26" target="mpPesaU1RTHJoH_eQU32-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-42" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpPesaU1RTHJoH_eQU32-41">
+          <mxGeometry x="0.4053" relative="1" as="geometry">
+            <mxPoint x="-27.75" y="7.66" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-26" value="Efetuar Saque" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-44" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-28" target="mpPesaU1RTHJoH_eQU32-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-28" value="Encerrar Conta" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-35" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=openThin;endFill=0;strokeColor=#000000;entryX=0.018;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mpPesaU1RTHJoH_eQU32-31" target="mpPesaU1RTHJoH_eQU32-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mpPesaU1RTHJoH_eQU32-35">
+          <mxGeometry x="0.4363" relative="1" as="geometry">
+            <mxPoint x="12.66" y="-13.22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-31" value="Efetuar Deposito" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="314" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpPesaU1RTHJoH_eQU32-32" value="Registrar Transação" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="464" y="315" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
